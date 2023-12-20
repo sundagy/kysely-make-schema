@@ -1,4 +1,4 @@
-# kysely-make-schema
+# Kysely make schema
 Little helper to generate Kysely schemas from generic MySQL file
 
 ### Example
